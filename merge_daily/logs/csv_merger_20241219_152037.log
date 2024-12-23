@@ -1,0 +1,427 @@
+2024-12-19 15:20:37,126 - INFO - Iniciando procesamiento de múltiples patrones
+2024-12-19 15:20:37,127 - INFO - Procesando patrón: USD_THB Historical Data
+2024-12-19 15:20:37,127 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'USD_THB Historical Data' en data
+2024-12-19 15:20:37,129 - INFO - Archivo encontrado: USD_THB Historical Data (1).csv
+2024-12-19 15:20:37,129 - INFO - Archivo encontrado: USD_THB Historical Data (10).csv
+2024-12-19 15:20:37,129 - INFO - Archivo encontrado: USD_THB Historical Data (11).csv
+2024-12-19 15:20:37,129 - INFO - Archivo encontrado: USD_THB Historical Data (2).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (3).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (4).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (5).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (6).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (7).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (8).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data (9).csv
+2024-12-19 15:20:37,130 - INFO - Archivo encontrado: USD_THB Historical Data.csv
+2024-12-19 15:20:37,169 - INFO - Columnas originales en USD_THB Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,170 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (1).csv
+2024-12-19 15:20:37,197 - INFO - Columnas originales en USD_THB Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,198 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (10).csv
+2024-12-19 15:20:37,208 - INFO - Columnas originales en USD_THB Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,209 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (11).csv
+2024-12-19 15:20:37,212 - INFO - Columnas originales en USD_THB Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,212 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (2).csv
+2024-12-19 15:20:37,238 - INFO - Columnas originales en USD_THB Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,239 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (3).csv
+2024-12-19 15:20:37,265 - INFO - Columnas originales en USD_THB Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,266 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (4).csv
+2024-12-19 15:20:37,291 - INFO - Columnas originales en USD_THB Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,292 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (5).csv
+2024-12-19 15:20:37,317 - INFO - Columnas originales en USD_THB Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,318 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (6).csv
+2024-12-19 15:20:37,321 - INFO - Columnas originales en USD_THB Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,321 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (7).csv
+2024-12-19 15:20:37,324 - INFO - Columnas originales en USD_THB Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,325 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (8).csv
+2024-12-19 15:20:37,354 - INFO - Columnas originales en USD_THB Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,354 - INFO - Archivo procesado exitosamente: USD_THB Historical Data (9).csv
+2024-12-19 15:20:37,383 - INFO - Columnas originales en USD_THB Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,384 - INFO - Archivo procesado exitosamente: USD_THB Historical Data.csv
+2024-12-19 15:20:37,433 - INFO - Archivo combinado guardado exitosamente: USD_THB Historical Data_TOTAL.csv
+2024-12-19 15:20:37,433 - INFO - Estadísticas finales para USD_THB Historical Data:
+2024-12-19 15:20:37,433 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:37,433 - INFO - - Total de registros: 6056
+2024-12-19 15:20:37,433 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:37,434 - INFO - Procesando patrón: SAR_USD Historical Data
+2024-12-19 15:20:37,434 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'SAR_USD Historical Data' en data
+2024-12-19 15:20:37,436 - INFO - Archivo encontrado: SAR_USD Historical Data (1).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (10).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (11).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (2).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (3).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (4).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (5).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (6).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (7).csv
+2024-12-19 15:20:37,437 - INFO - Archivo encontrado: SAR_USD Historical Data (8).csv
+2024-12-19 15:20:37,438 - INFO - Archivo encontrado: SAR_USD Historical Data (9).csv
+2024-12-19 15:20:37,438 - INFO - Archivo encontrado: SAR_USD Historical Data.csv
+2024-12-19 15:20:37,473 - INFO - Columnas originales en SAR_USD Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,473 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (1).csv
+2024-12-19 15:20:37,476 - INFO - Columnas originales en SAR_USD Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,477 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (10).csv
+2024-12-19 15:20:37,488 - INFO - Columnas originales en SAR_USD Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,488 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (11).csv
+2024-12-19 15:20:37,516 - INFO - Columnas originales en SAR_USD Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,516 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (2).csv
+2024-12-19 15:20:37,541 - INFO - Columnas originales en SAR_USD Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,542 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (3).csv
+2024-12-19 15:20:37,569 - INFO - Columnas originales en SAR_USD Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,569 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (4).csv
+2024-12-19 15:20:37,596 - INFO - Columnas originales en SAR_USD Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,596 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (5).csv
+2024-12-19 15:20:37,624 - INFO - Columnas originales en SAR_USD Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,625 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (6).csv
+2024-12-19 15:20:37,650 - INFO - Columnas originales en SAR_USD Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,651 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (7).csv
+2024-12-19 15:20:37,677 - INFO - Columnas originales en SAR_USD Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,678 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (8).csv
+2024-12-19 15:20:37,680 - INFO - Columnas originales en SAR_USD Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,681 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data (9).csv
+2024-12-19 15:20:37,706 - INFO - Columnas originales en SAR_USD Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,706 - INFO - Archivo procesado exitosamente: SAR_USD Historical Data.csv
+2024-12-19 15:20:37,760 - INFO - Archivo combinado guardado exitosamente: SAR_USD Historical Data_TOTAL.csv
+2024-12-19 15:20:37,760 - INFO - Estadísticas finales para SAR_USD Historical Data:
+2024-12-19 15:20:37,761 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:37,761 - INFO - - Total de registros: 6286
+2024-12-19 15:20:37,761 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:37,762 - INFO - Procesando patrón: IDR_USD Historical Data
+2024-12-19 15:20:37,762 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'IDR_USD Historical Data' en data
+2024-12-19 15:20:37,764 - INFO - Archivo encontrado: IDR_USD Historical Data (1).csv
+2024-12-19 15:20:37,765 - INFO - Archivo encontrado: IDR_USD Historical Data (10).csv
+2024-12-19 15:20:37,765 - INFO - Archivo encontrado: IDR_USD Historical Data (11).csv
+2024-12-19 15:20:37,765 - INFO - Archivo encontrado: IDR_USD Historical Data (2).csv
+2024-12-19 15:20:37,765 - INFO - Archivo encontrado: IDR_USD Historical Data (3).csv
+2024-12-19 15:20:37,765 - INFO - Archivo encontrado: IDR_USD Historical Data (4).csv
+2024-12-19 15:20:37,765 - INFO - Archivo encontrado: IDR_USD Historical Data (5).csv
+2024-12-19 15:20:37,766 - INFO - Archivo encontrado: IDR_USD Historical Data (6).csv
+2024-12-19 15:20:37,766 - INFO - Archivo encontrado: IDR_USD Historical Data (7).csv
+2024-12-19 15:20:37,766 - INFO - Archivo encontrado: IDR_USD Historical Data (8).csv
+2024-12-19 15:20:37,766 - INFO - Archivo encontrado: IDR_USD Historical Data (9).csv
+2024-12-19 15:20:37,766 - INFO - Archivo encontrado: IDR_USD Historical Data.csv
+2024-12-19 15:20:37,770 - INFO - Columnas originales en IDR_USD Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,770 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (1).csv
+2024-12-19 15:20:37,787 - INFO - Columnas originales en IDR_USD Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,788 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (10).csv
+2024-12-19 15:20:37,802 - INFO - Columnas originales en IDR_USD Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,803 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (11).csv
+2024-12-19 15:20:37,806 - INFO - Columnas originales en IDR_USD Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,806 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (2).csv
+2024-12-19 15:20:37,809 - INFO - Columnas originales en IDR_USD Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,810 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (3).csv
+2024-12-19 15:20:37,830 - INFO - Columnas originales en IDR_USD Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,832 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (4).csv
+2024-12-19 15:20:37,855 - INFO - Columnas originales en IDR_USD Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,856 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (5).csv
+2024-12-19 15:20:37,879 - INFO - Columnas originales en IDR_USD Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,880 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (6).csv
+2024-12-19 15:20:37,901 - INFO - Columnas originales en IDR_USD Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,902 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (7).csv
+2024-12-19 15:20:37,923 - INFO - Columnas originales en IDR_USD Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,923 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (8).csv
+2024-12-19 15:20:37,938 - INFO - Columnas originales en IDR_USD Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,939 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data (9).csv
+2024-12-19 15:20:37,953 - INFO - Columnas originales en IDR_USD Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,954 - INFO - Archivo procesado exitosamente: IDR_USD Historical Data.csv
+2024-12-19 15:20:37,977 - INFO - Archivo combinado guardado exitosamente: IDR_USD Historical Data_TOTAL.csv
+2024-12-19 15:20:37,977 - INFO - Estadísticas finales para IDR_USD Historical Data:
+2024-12-19 15:20:37,978 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:37,978 - INFO - - Total de registros: 2216
+2024-12-19 15:20:37,978 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:37,978 - INFO - Procesando patrón: USD_RUB Historical Data
+2024-12-19 15:20:37,979 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'USD_RUB Historical Data' en data
+2024-12-19 15:20:37,981 - INFO - Archivo encontrado: USD_RUB Historical Data (1).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (10).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (11).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (2).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (3).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (4).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (5).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (6).csv
+2024-12-19 15:20:37,982 - INFO - Archivo encontrado: USD_RUB Historical Data (7).csv
+2024-12-19 15:20:37,983 - INFO - Archivo encontrado: USD_RUB Historical Data (8).csv
+2024-12-19 15:20:37,983 - INFO - Archivo encontrado: USD_RUB Historical Data (9).csv
+2024-12-19 15:20:37,983 - INFO - Archivo encontrado: USD_RUB Historical Data.csv
+2024-12-19 15:20:37,987 - INFO - Columnas originales en USD_RUB Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,987 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (1).csv
+2024-12-19 15:20:37,991 - INFO - Columnas originales en USD_RUB Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:37,991 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (10).csv
+2024-12-19 15:20:38,005 - INFO - Columnas originales en USD_RUB Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,006 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (11).csv
+2024-12-19 15:20:38,012 - INFO - Columnas originales en USD_RUB Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,014 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (2).csv
+2024-12-19 15:20:38,051 - INFO - Columnas originales en USD_RUB Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,052 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (3).csv
+2024-12-19 15:20:38,055 - INFO - Columnas originales en USD_RUB Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,055 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (4).csv
+2024-12-19 15:20:38,058 - INFO - Columnas originales en USD_RUB Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,058 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (5).csv
+2024-12-19 15:20:38,085 - INFO - Columnas originales en USD_RUB Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,086 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (6).csv
+2024-12-19 15:20:38,112 - INFO - Columnas originales en USD_RUB Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,113 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (7).csv
+2024-12-19 15:20:38,139 - INFO - Columnas originales en USD_RUB Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,139 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (8).csv
+2024-12-19 15:20:38,171 - INFO - Columnas originales en USD_RUB Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,172 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data (9).csv
+2024-12-19 15:20:38,197 - INFO - Columnas originales en USD_RUB Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,198 - INFO - Archivo procesado exitosamente: USD_RUB Historical Data.csv
+2024-12-19 15:20:38,242 - INFO - Archivo combinado guardado exitosamente: USD_RUB Historical Data_TOTAL.csv
+2024-12-19 15:20:38,242 - INFO - Estadísticas finales para USD_RUB Historical Data:
+2024-12-19 15:20:38,242 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:38,243 - INFO - - Total de registros: 5993
+2024-12-19 15:20:38,243 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:38,243 - INFO - Procesando patrón: KRW_USD Historical Data
+2024-12-19 15:20:38,244 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'KRW_USD Historical Data' en data
+2024-12-19 15:20:38,245 - INFO - Archivo encontrado: KRW_USD Historical Data (1).csv
+2024-12-19 15:20:38,245 - INFO - Archivo encontrado: KRW_USD Historical Data (10).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (11).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (2).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (3).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (4).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (5).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (6).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (7).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (8).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data (9).csv
+2024-12-19 15:20:38,246 - INFO - Archivo encontrado: KRW_USD Historical Data.csv
+2024-12-19 15:20:38,279 - INFO - Columnas originales en KRW_USD Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,280 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (1).csv
+2024-12-19 15:20:38,311 - INFO - Columnas originales en KRW_USD Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,312 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (10).csv
+2024-12-19 15:20:38,321 - INFO - Columnas originales en KRW_USD Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,322 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (11).csv
+2024-12-19 15:20:38,350 - INFO - Columnas originales en KRW_USD Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,351 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (2).csv
+2024-12-19 15:20:38,381 - INFO - Columnas originales en KRW_USD Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,382 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (3).csv
+2024-12-19 15:20:38,413 - INFO - Columnas originales en KRW_USD Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,414 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (4).csv
+2024-12-19 15:20:38,416 - INFO - Columnas originales en KRW_USD Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,417 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (5).csv
+2024-12-19 15:20:38,421 - INFO - Columnas originales en KRW_USD Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,422 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (6).csv
+2024-12-19 15:20:38,426 - INFO - Columnas originales en KRW_USD Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,426 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (7).csv
+2024-12-19 15:20:38,487 - INFO - Columnas originales en KRW_USD Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,488 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (8).csv
+2024-12-19 15:20:38,576 - INFO - Columnas originales en KRW_USD Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,577 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data (9).csv
+2024-12-19 15:20:38,613 - INFO - Columnas originales en KRW_USD Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,614 - INFO - Archivo procesado exitosamente: KRW_USD Historical Data.csv
+2024-12-19 15:20:38,680 - INFO - Archivo combinado guardado exitosamente: KRW_USD Historical Data_TOTAL.csv
+2024-12-19 15:20:38,680 - INFO - Estadísticas finales para KRW_USD Historical Data:
+2024-12-19 15:20:38,681 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:38,681 - INFO - - Total de registros: 6938
+2024-12-19 15:20:38,681 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:38,682 - INFO - Procesando patrón: USD_SDG Historical Data
+2024-12-19 15:20:38,682 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'USD_SDG Historical Data' en data
+2024-12-19 15:20:38,686 - INFO - Archivo encontrado: USD_SDG Historical Data (1).csv
+2024-12-19 15:20:38,686 - INFO - Archivo encontrado: USD_SDG Historical Data (10).csv
+2024-12-19 15:20:38,686 - INFO - Archivo encontrado: USD_SDG Historical Data (2).csv
+2024-12-19 15:20:38,686 - INFO - Archivo encontrado: USD_SDG Historical Data (3).csv
+2024-12-19 15:20:38,686 - INFO - Archivo encontrado: USD_SDG Historical Data (4).csv
+2024-12-19 15:20:38,686 - INFO - Archivo encontrado: USD_SDG Historical Data (5).csv
+2024-12-19 15:20:38,687 - INFO - Archivo encontrado: USD_SDG Historical Data (6).csv
+2024-12-19 15:20:38,687 - INFO - Archivo encontrado: USD_SDG Historical Data (7).csv
+2024-12-19 15:20:38,687 - INFO - Archivo encontrado: USD_SDG Historical Data (8).csv
+2024-12-19 15:20:38,687 - INFO - Archivo encontrado: USD_SDG Historical Data (9).csv
+2024-12-19 15:20:38,687 - INFO - Archivo encontrado: USD_SDG Historical Data.csv
+2024-12-19 15:20:38,718 - INFO - Columnas originales en USD_SDG Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,719 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (1).csv
+2024-12-19 15:20:38,729 - INFO - Columnas originales en USD_SDG Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,730 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (10).csv
+2024-12-19 15:20:38,760 - INFO - Columnas originales en USD_SDG Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,761 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (2).csv
+2024-12-19 15:20:38,788 - INFO - Columnas originales en USD_SDG Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,789 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (3).csv
+2024-12-19 15:20:38,792 - INFO - Columnas originales en USD_SDG Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,792 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (4).csv
+2024-12-19 15:20:38,821 - INFO - Columnas originales en USD_SDG Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,821 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (5).csv
+2024-12-19 15:20:38,846 - INFO - Columnas originales en USD_SDG Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,847 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (6).csv
+2024-12-19 15:20:38,873 - INFO - Columnas originales en USD_SDG Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,873 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (7).csv
+2024-12-19 15:20:38,904 - INFO - Columnas originales en USD_SDG Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,905 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (8).csv
+2024-12-19 15:20:38,935 - INFO - Columnas originales en USD_SDG Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,935 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data (9).csv
+2024-12-19 15:20:38,961 - INFO - Columnas originales en USD_SDG Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:38,962 - INFO - Archivo procesado exitosamente: USD_SDG Historical Data.csv
+2024-12-19 15:20:39,007 - INFO - Archivo combinado guardado exitosamente: USD_SDG Historical Data_TOTAL.csv
+2024-12-19 15:20:39,007 - INFO - Estadísticas finales para USD_SDG Historical Data:
+2024-12-19 15:20:39,007 - INFO - - Archivos procesados: 11
+2024-12-19 15:20:39,008 - INFO - - Total de registros: 6323
+2024-12-19 15:20:39,008 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:39,009 - INFO - Procesando patrón: CNY_USD Historical Data
+2024-12-19 15:20:39,009 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'CNY_USD Historical Data' en data
+2024-12-19 15:20:39,012 - INFO - Archivo encontrado: CNY_USD Historical Data (1).csv
+2024-12-19 15:20:39,012 - INFO - Archivo encontrado: CNY_USD Historical Data (10).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (2).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (3).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (4).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (5).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (6).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (7).csv
+2024-12-19 15:20:39,013 - INFO - Archivo encontrado: CNY_USD Historical Data (8).csv
+2024-12-19 15:20:39,014 - INFO - Archivo encontrado: CNY_USD Historical Data (9).csv
+2024-12-19 15:20:39,014 - INFO - Archivo encontrado: CNY_USD Historical Data.csv
+2024-12-19 15:20:39,051 - INFO - Columnas originales en CNY_USD Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,051 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (1).csv
+2024-12-19 15:20:39,054 - INFO - Columnas originales en CNY_USD Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,055 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (10).csv
+2024-12-19 15:20:39,083 - INFO - Columnas originales en CNY_USD Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,084 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (2).csv
+2024-12-19 15:20:39,086 - INFO - Columnas originales en CNY_USD Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,087 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (3).csv
+2024-12-19 15:20:39,116 - INFO - Columnas originales en CNY_USD Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,116 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (4).csv
+2024-12-19 15:20:39,143 - INFO - Columnas originales en CNY_USD Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,144 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (5).csv
+2024-12-19 15:20:39,174 - INFO - Columnas originales en CNY_USD Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,175 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (6).csv
+2024-12-19 15:20:39,204 - INFO - Columnas originales en CNY_USD Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,205 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (7).csv
+2024-12-19 15:20:39,231 - INFO - Columnas originales en CNY_USD Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,232 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (8).csv
+2024-12-19 15:20:39,260 - INFO - Columnas originales en CNY_USD Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,261 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data (9).csv
+2024-12-19 15:20:39,293 - INFO - Columnas originales en CNY_USD Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,294 - INFO - Archivo procesado exitosamente: CNY_USD Historical Data.csv
+2024-12-19 15:20:39,348 - INFO - Archivo combinado guardado exitosamente: CNY_USD Historical Data_TOTAL.csv
+2024-12-19 15:20:39,348 - INFO - Estadísticas finales para CNY_USD Historical Data:
+2024-12-19 15:20:39,348 - INFO - - Archivos procesados: 11
+2024-12-19 15:20:39,348 - INFO - - Total de registros: 5535
+2024-12-19 15:20:39,348 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:39,349 - INFO - Procesando patrón: AUD_USD Historical Data
+2024-12-19 15:20:39,350 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'AUD_USD Historical Data' en data
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (1).csv
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (10).csv
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (11).csv
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (2).csv
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (3).csv
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (4).csv
+2024-12-19 15:20:39,352 - INFO - Archivo encontrado: AUD_USD Historical Data (5).csv
+2024-12-19 15:20:39,353 - INFO - Archivo encontrado: AUD_USD Historical Data (6).csv
+2024-12-19 15:20:39,353 - INFO - Archivo encontrado: AUD_USD Historical Data (7).csv
+2024-12-19 15:20:39,353 - INFO - Archivo encontrado: AUD_USD Historical Data (8).csv
+2024-12-19 15:20:39,353 - INFO - Archivo encontrado: AUD_USD Historical Data (9).csv
+2024-12-19 15:20:39,353 - INFO - Archivo encontrado: AUD_USD Historical Data.csv
+2024-12-19 15:20:39,389 - INFO - Columnas originales en AUD_USD Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,390 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (1).csv
+2024-12-19 15:20:39,424 - INFO - Columnas originales en AUD_USD Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,425 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (10).csv
+2024-12-19 15:20:39,428 - INFO - Columnas originales en AUD_USD Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,429 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (11).csv
+2024-12-19 15:20:39,465 - INFO - Columnas originales en AUD_USD Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,466 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (2).csv
+2024-12-19 15:20:39,500 - INFO - Columnas originales en AUD_USD Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,501 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (3).csv
+2024-12-19 15:20:39,530 - INFO - Columnas originales en AUD_USD Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,531 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (4).csv
+2024-12-19 15:20:39,560 - INFO - Columnas originales en AUD_USD Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,561 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (5).csv
+2024-12-19 15:20:39,588 - INFO - Columnas originales en AUD_USD Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,588 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (6).csv
+2024-12-19 15:20:39,613 - INFO - Columnas originales en AUD_USD Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,613 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (7).csv
+2024-12-19 15:20:39,637 - INFO - Columnas originales en AUD_USD Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,638 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (8).csv
+2024-12-19 15:20:39,669 - INFO - Columnas originales en AUD_USD Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,669 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data (9).csv
+2024-12-19 15:20:39,673 - INFO - Columnas originales en AUD_USD Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,673 - INFO - Archivo procesado exitosamente: AUD_USD Historical Data.csv
+2024-12-19 15:20:39,741 - INFO - Archivo combinado guardado exitosamente: AUD_USD Historical Data_TOTAL.csv
+2024-12-19 15:20:39,741 - INFO - Estadísticas finales para AUD_USD Historical Data:
+2024-12-19 15:20:39,741 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:39,742 - INFO - - Total de registros: 10024
+2024-12-19 15:20:39,742 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:39,743 - INFO - Procesando patrón: JPY_USD Historical Data
+2024-12-19 15:20:39,743 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'JPY_USD Historical Data' en data
+2024-12-19 15:20:39,745 - INFO - Archivo encontrado: JPY_USD Historical Data (1).csv
+2024-12-19 15:20:39,745 - INFO - Archivo encontrado: JPY_USD Historical Data (10).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (11).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (2).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (3).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (4).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (5).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (6).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (7).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (8).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data (9).csv
+2024-12-19 15:20:39,746 - INFO - Archivo encontrado: JPY_USD Historical Data.csv
+2024-12-19 15:20:39,758 - INFO - Columnas originales en JPY_USD Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,759 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (1).csv
+2024-12-19 15:20:39,763 - INFO - Columnas originales en JPY_USD Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,764 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (10).csv
+2024-12-19 15:20:39,776 - INFO - Columnas originales en JPY_USD Historical Data (11).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,777 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (11).csv
+2024-12-19 15:20:39,790 - INFO - Columnas originales en JPY_USD Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,791 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (2).csv
+2024-12-19 15:20:39,793 - INFO - Columnas originales en JPY_USD Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,794 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (3).csv
+2024-12-19 15:20:39,805 - INFO - Columnas originales en JPY_USD Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,806 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (4).csv
+2024-12-19 15:20:39,817 - INFO - Columnas originales en JPY_USD Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,818 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (5).csv
+2024-12-19 15:20:39,820 - INFO - Columnas originales en JPY_USD Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,821 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (6).csv
+2024-12-19 15:20:39,823 - INFO - Columnas originales en JPY_USD Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,824 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (7).csv
+2024-12-19 15:20:39,834 - INFO - Columnas originales en JPY_USD Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,835 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (8).csv
+2024-12-19 15:20:39,845 - INFO - Columnas originales en JPY_USD Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,846 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data (9).csv
+2024-12-19 15:20:39,857 - INFO - Columnas originales en JPY_USD Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,857 - INFO - Archivo procesado exitosamente: JPY_USD Historical Data.csv
+2024-12-19 15:20:39,879 - INFO - Archivo combinado guardado exitosamente: JPY_USD Historical Data_TOTAL.csv
+2024-12-19 15:20:39,879 - INFO - Estadísticas finales para JPY_USD Historical Data:
+2024-12-19 15:20:39,879 - INFO - - Archivos procesados: 12
+2024-12-19 15:20:39,879 - INFO - - Total de registros: 1774
+2024-12-19 15:20:39,879 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:39,880 - INFO - Procesando patrón: USD_INR Historical Data
+2024-12-19 15:20:39,880 - INFO - Iniciando proceso de combinación de archivos CSV para patrón 'USD_INR Historical Data' en data
+2024-12-19 15:20:39,883 - INFO - Archivo encontrado: USD_INR Historical Data (1).csv
+2024-12-19 15:20:39,883 - INFO - Archivo encontrado: USD_INR Historical Data (10).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (2).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (3).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (4).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (5).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (6).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (7).csv
+2024-12-19 15:20:39,884 - INFO - Archivo encontrado: USD_INR Historical Data (8).csv
+2024-12-19 15:20:39,885 - INFO - Archivo encontrado: USD_INR Historical Data (9).csv
+2024-12-19 15:20:39,885 - INFO - Archivo encontrado: USD_INR Historical Data.csv
+2024-12-19 15:20:39,890 - INFO - Columnas originales en USD_INR Historical Data (1).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,891 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (1).csv
+2024-12-19 15:20:39,900 - INFO - Columnas originales en USD_INR Historical Data (10).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,902 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (10).csv
+2024-12-19 15:20:39,937 - INFO - Columnas originales en USD_INR Historical Data (2).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,938 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (2).csv
+2024-12-19 15:20:39,964 - INFO - Columnas originales en USD_INR Historical Data (3).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,965 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (3).csv
+2024-12-19 15:20:39,967 - INFO - Columnas originales en USD_INR Historical Data (4).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,968 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (4).csv
+2024-12-19 15:20:39,994 - INFO - Columnas originales en USD_INR Historical Data (5).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:39,996 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (5).csv
+2024-12-19 15:20:40,025 - INFO - Columnas originales en USD_INR Historical Data (6).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:40,027 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (6).csv
+2024-12-19 15:20:40,060 - INFO - Columnas originales en USD_INR Historical Data (7).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:40,061 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (7).csv
+2024-12-19 15:20:40,094 - INFO - Columnas originales en USD_INR Historical Data (8).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:40,096 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (8).csv
+2024-12-19 15:20:40,133 - INFO - Columnas originales en USD_INR Historical Data (9).csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:40,133 - INFO - Archivo procesado exitosamente: USD_INR Historical Data (9).csv
+2024-12-19 15:20:40,162 - INFO - Columnas originales en USD_INR Historical Data.csv: ['Date', 'Price', 'Open', 'High', 'Low', 'Vol.', 'Change %']
+2024-12-19 15:20:40,163 - INFO - Archivo procesado exitosamente: USD_INR Historical Data.csv
+2024-12-19 15:20:40,247 - INFO - Archivo combinado guardado exitosamente: USD_INR Historical Data_TOTAL.csv
+2024-12-19 15:20:40,247 - INFO - Estadísticas finales para USD_INR Historical Data:
+2024-12-19 15:20:40,247 - INFO - - Archivos procesados: 11
+2024-12-19 15:20:40,247 - INFO - - Total de registros: 11301
+2024-12-19 15:20:40,247 - INFO - - Columnas en archivo final: ['Date', 'Close', 'Open', 'High', 'Low', 'Volume', 'Change%']
+2024-12-19 15:20:40,248 - INFO - 
+Resumen de procesamiento:
+2024-12-19 15:20:40,248 - INFO - - Patrones procesados exitosamente: 10
+2024-12-19 15:20:40,248 - INFO - - Patrones con errores: 0
+2024-12-19 15:20:40,248 - INFO - - Total de patrones: 10
